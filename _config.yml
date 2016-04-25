@@ -1,0 +1,28 @@
+name: datanews
+favicon: null
+layout_spectrum: 0.439727068413049
+typography_spectrum: 0.06652358965948224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3514726215507835
+  lightness: 0.03948742593638599
+  saturation: 0.8217130086850375
+  rhythmicContrast: 0.2807839694432914
+purpose: []
