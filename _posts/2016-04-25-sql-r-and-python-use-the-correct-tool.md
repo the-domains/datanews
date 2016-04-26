@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'According to this post (http://www.dataiku.com/blog/2016/02/25/why-data-wrangling-in-only-code-is-inefficient.html), data scientists spend 50 to 80% of their time cleaning data. '
-datePublished: '2016-04-26T14:44:55.273Z'
-dateModified: '2016-04-26T14:38:43.523Z'
+datePublished: '2016-04-26T15:00:20.808Z'
+dateModified: '2016-04-26T14:59:06.303Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-sql-r-and-python-use-the-correct-tool.md
@@ -30,7 +30,6 @@ According to this post ([http://www.dataiku.com/blog/2016/02/25/why-data-wrangli
 This is only one of the steps. The macro process involves: 
 
 * to define the final goal,
-
 * to collect data,
 
 * to explore data,
