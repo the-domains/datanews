@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'According to this post (http://www.dataiku.com/blog/2016/02/25/why-data-wrangling-in-only-code-is-inefficient.html), data scientists spend 50 to 80% of their time cleaning data. '
-datePublished: '2016-04-26T14:38:40.627Z'
-dateModified: '2016-04-26T14:35:23.891Z'
+datePublished: '2016-04-26T14:44:55.273Z'
+dateModified: '2016-04-26T14:38:43.523Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-sql-r-and-python-use-the-correct-tool.md
