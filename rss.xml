@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[datanews]]></title>
-        <description><![CDATA[datanews]]></description>
+        <title><![CDATA[News about Data Science, Machine Learning, Analytics and Python]]></title>
+        <description><![CDATA[News about Data Science, Machine Learning, Analytics and Python]]></description>
         <link>https://thegrid.ai/datanews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 20:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 14:35:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/datanews/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[If the only tool you have is a hammer...]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e790f79e-491e-4871-8794-86b7fafd0f92.jpg">]]></description>
             <link>https://thegrid.ai/datanews/sql-r-and-python-use-the-correct-tool/index.html</link>
             <guid isPermaLink="false">de6d3835-c1df-4b0e-b207-6f95c00cc6cf</guid>
-            <pubDate>Mon, 25 Apr 2016 20:19:58 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 14:35:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
