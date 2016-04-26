@@ -4,14 +4,14 @@
         <description><![CDATA[News about Data Science, Machine Learning, Analytics and Python]]></description>
         <link>https://thegrid.ai/datanews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 14:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 15:00:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/datanews/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[If the only tool you have is a hammer...]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e790f79e-491e-4871-8794-86b7fafd0f92.jpg">]]></description>
             <link>https://thegrid.ai/datanews/sql-r-and-python-use-the-correct-tool/index.html</link>
             <guid isPermaLink="false">de6d3835-c1df-4b0e-b207-6f95c00cc6cf</guid>
-            <pubDate>Tue, 26 Apr 2016 14:44:55 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 15:00:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
