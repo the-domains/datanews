@@ -19,7 +19,11 @@ analytics:
   google: UA-76914704-1
   facebook: null
   twitter: null
-name: datanews
+author:
+  name: Davi Silva
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fedbd3e-0f16-4f02-b468-32d434c6f55b.png
+name: Data Assets
 cta:
   domain: null
   bucket: null
