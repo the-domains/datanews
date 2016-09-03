@@ -1,20 +1,4 @@
-name: datanews
-favicon: null
-layout_spectrum: 0.73665
 typography_spectrum: 0.06652358965948224
-title: 'News about Data Science, Machine Learning, Analytics and Python'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-76914704-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -26,4 +10,20 @@ color:
   lightness: 0.03948742593638599
   saturation: 0.8217130086850375
   rhythmicContrast: 0.2807839694432914
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73665
+analytics:
+  google: UA-76914704-1
+  facebook: null
+  twitter: null
+name: datanews
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'News about Data Science, Machine Learning, Analytics and Python'
 purpose: []
